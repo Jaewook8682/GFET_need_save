@@ -53,7 +53,7 @@
             android:id="@+id/bt3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="3"/>
+            android:text="r"/>
         <Button
             android:id="@+id/bt4"
             android:layout_width="wrap_content"
@@ -143,14 +143,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Start"
-            android:id="@+id/start"
-            android:layout_marginLeft="10dp"/>
+            android:id="@+id/start" />
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="clear"
-            android:id="@+id/clear"
-            android:layout_marginLeft="10dp"/>
+            android:id="@+id/clear"/>
     </LinearLayout>
     <ScrollView
         android:layout_width="match_parent"
